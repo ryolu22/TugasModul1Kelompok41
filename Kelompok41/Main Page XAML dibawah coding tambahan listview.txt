@@ -1,0 +1,3 @@
+<StackLayout>
+            <Label Text="Main app content goes here" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        </StackLayout>

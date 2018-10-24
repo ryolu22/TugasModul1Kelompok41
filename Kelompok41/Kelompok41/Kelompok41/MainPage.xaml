@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Kelompok41.MainPage" xmlns:View="clr-namespace:Kelompok41.View;  
+assembly=Kelompok41"
+             xmlns:View1="clr-namespace:Kelompok41.View">Title="Main Page"   >
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Logout" Clicked="OnLogoutButtonClicked" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <ListView ItemsSource="{Binding DataMahasiswa}" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout>
+                            <Label Text="{Binding Id}" />
+                            <Label Text="{Binding Nama}" />
+                            <Label Text="{Binding Jurusan }" />
+                            <Button Text="Remove" Clicked="Remove_Clicked" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
+    </ContentPage.Content>
+    <ContentPage.BindingContext>
+        <View1:HalamanLihatData/>
+    </ContentPage.BindingContext>
+    
+</ContentPage>

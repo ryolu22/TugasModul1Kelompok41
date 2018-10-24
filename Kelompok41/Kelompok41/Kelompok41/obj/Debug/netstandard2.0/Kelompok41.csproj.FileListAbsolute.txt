@@ -1,0 +1,13 @@
+C:\Users\Rio\source\repos\Kelompok41\Kelompok41\Kelompok41\bin\Debug\netstandard2.0\Kelompok41.deps.json
+C:\Users\Rio\source\repos\Kelompok41\Kelompok41\Kelompok41\bin\Debug\netstandard2.0\Kelompok41.dll
+C:\Users\Rio\source\repos\Kelompok41\Kelompok41\Kelompok41\bin\Debug\netstandard2.0\Kelompok41.pdb
+C:\Users\Rio\source\repos\Kelompok41\Kelompok41\Kelompok41\obj\Debug\netstandard2.0\Kelompok41.csprojAssemblyReference.cache
+C:\Users\Rio\source\repos\Kelompok41\Kelompok41\Kelompok41\obj\Debug\netstandard2.0\Kelompok41.csproj.CoreCompileInputs.cache
+C:\Users\Rio\source\repos\Kelompok41\Kelompok41\Kelompok41\obj\Debug\netstandard2.0\Kelompok41.App.xaml.g.cs
+C:\Users\Rio\source\repos\Kelompok41\Kelompok41\Kelompok41\obj\Debug\netstandard2.0\Kelompok41.LoginPage.xaml.g.cs
+C:\Users\Rio\source\repos\Kelompok41\Kelompok41\Kelompok41\obj\Debug\netstandard2.0\Kelompok41.MainPage.xaml.g.cs
+C:\Users\Rio\source\repos\Kelompok41\Kelompok41\Kelompok41\obj\Debug\netstandard2.0\Kelompok41.SignUpPage.xaml.g.cs
+C:\Users\Rio\source\repos\Kelompok41\Kelompok41\Kelompok41\obj\Debug\netstandard2.0\Kelompok41.AssemblyInfoInputs.cache
+C:\Users\Rio\source\repos\Kelompok41\Kelompok41\Kelompok41\obj\Debug\netstandard2.0\Kelompok41.AssemblyInfo.cs
+C:\Users\Rio\source\repos\Kelompok41\Kelompok41\Kelompok41\obj\Debug\netstandard2.0\Kelompok41.dll
+C:\Users\Rio\source\repos\Kelompok41\Kelompok41\Kelompok41\obj\Debug\netstandard2.0\Kelompok41.pdb
